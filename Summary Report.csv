@@ -1,0 +1,8 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET_post_HTTP Request,3,101,84,125,17.21,0.000%,23.07692,645.34,3.04,28636.0
+POST_new_post_HTTP Request,3,224,141,383,112.24,0.000%,7.02576,8.40,2.94,1225.0
+PUT_сhange new post_HTTP Request,3,355,346,365,7.76,0.000%,4.73186,5.06,1.65,1095.0
+Putch title in new posts_HTTP Request,3,145,140,150,4.11,0.000%,6.91244,9.30,2.11,1377.0
+Delete created post_HTTP Request,3,143,141,146,2.05,0.000%,6.91244,7.31,1.51,1083.0
+Debug Sampler,3,0,0,0,0.00,0.000%,10.20408,0.00,0.00,.0
+TOTAL,18,161,0,383,118.93,0.000%,15.42416,83.89,3.66,5569.3
